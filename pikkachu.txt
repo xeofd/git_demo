@@ -1,2 +1,3 @@
 move: thunderbolt
 move: shockwave
+move: lightning kick
